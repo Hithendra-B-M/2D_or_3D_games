@@ -1,2 +1,3 @@
 # 2D_or_3D_games
-This repository contains some game ideas ,few or 2D and 3D with source code with different programming language. Note: codes are bit incomplete.
+This repository contains various game insights based on different programming languages.
+Been written simple code and the descriptions of the respective sets are the respective files. Can apply this idea to college level projects.
